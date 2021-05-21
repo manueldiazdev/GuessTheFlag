@@ -146,6 +146,8 @@
 			dependencies = (
 			);
 			name = GuessTheFlag;
+			packageProductDependencies = (
+			);
 			productName = GuessTheFlag;
 			productReference = 3F0BBE8426168DDB00A7EB43 /* GuessTheFlag.app */;
 			productType = "com.apple.product-type.application";
@@ -217,6 +219,8 @@
 				Base,
 			);
 			mainGroup = 3F0BBE7B26168DDB00A7EB43;
+			packageReferences = (
+			);
 			productRefGroup = 3F0BBE8526168DDB00A7EB43 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
